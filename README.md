@@ -1,4 +1,4 @@
-# Hi, I'm Shubhendu Halder 👋
+# Hi, I'm Shubhendu Halder 😀👋
 
 Welcome to my GitHub profile! I'm a passionate programmer skilled in Python 🐍 and Rust ⚙️. I specialize in Full Stack Development, Web Scraping, and Data Science. 
 
